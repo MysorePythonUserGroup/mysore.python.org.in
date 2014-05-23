@@ -681,8 +681,8 @@ a.download-button span {
 }
 
 footer {
-  margin-bottom: 60px;
-  padding-bottom: 60px;
+  margin-bottom: 10px;
+  padding-bottom: 10px;
 }
 
 footer .owner {
@@ -893,7 +893,7 @@ footer .owner p a {
   height: 90px;
   margin-left: -60px;
   margin-top: -25px;
-  content: "‟";
+  content: "â€Ÿ";
   display: block;
   float: left;
 }
